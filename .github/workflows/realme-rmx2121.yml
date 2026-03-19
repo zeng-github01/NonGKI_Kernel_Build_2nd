@@ -16,8 +16,8 @@ env:
   KERNEL_SOURCE : "https://github.com/zeng-github01/realme_X7_X7Pro_X7ProExtreme_X7-5G_Q2Pro_V15_V5_Q2_Narzo30pro-5G_7-5G-AndroidS-kernel-source.git"
   KERNEL_BRANCH : "master"
 
-  CLANG_SOURCE : "https://github.com/crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-6443078 -b 10.0"
-  CLANG_BRANCH : ""
+  CLANG_SOURCE : "https://github.com/crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-6443078"
+  CLANG_BRANCH : "10.0"
 
   GCC_GNU : false
   GCC_64_SOURCE : "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.git"
